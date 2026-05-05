@@ -27,7 +27,8 @@ const videosData: Omit<Video, 'rotation' | 'x' | 'y' | 'scale' | 'zIndex'>[] = [
   { id: '10', title: 'giants', category: 'social media', type: 'gdrive', url: 'https://drive.google.com/file/d/1CLMGwdWb_HRE5o8i16NVezqETGFwCYwD/preview' },
   { id: '11', title: 'restored testicles', category: 'excerpts', type: 'gdrive', url: 'https://drive.google.com/file/d/17ofDXWyaPc0Vr2-4ASdigSQTMUqiGfiI/preview' },
   { id: '12', title: 'T30 Still waters', category: 'long form', type: 'youtube', url: 'https://www.youtube.com/embed/AumTBEsJvZU?si=5Q-Hf1ENkpFIL1Cs' },
-  { id: '13', title: 'love abolade', category: 'music video', type: 'instagram', url: 'https://www.instagram.com/reel/DXrnqSKDLDt' },
+  { id: '13', title: 'love abolade', category: 'music video', type: 'instagram', url: 'https://www.instagram.com/reel/DXrnqSKDLDt/' },
+  { id: '14', title: 'IBQuake', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DKe1KoyKKMw/' },
 ];
 
 const categories = ['all', 'social media', 'documentary', 'excerpts', 'music video'];
