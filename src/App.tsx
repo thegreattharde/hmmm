@@ -29,7 +29,7 @@ const videosData: Omit<Video, 'rotation' | 'x' | 'y' | 'scale' | 'zIndex'>[] = [
   { id: '12', title: 'T30 Still waters', category: 'long form', type: 'youtube', url: 'https://www.youtube.com/embed/AumTBEsJvZU?si=5Q-Hf1ENkpFIL1Cs' },
   { id: '13', title: 'love abolade', category: 'music video', type: 'instagram', url: 'https://www.instagram.com/reel/DXrnqSKDLDt/' },
   { id: '14', title: 'IBQuake', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DKe1KoyKKMw/' },
-  { id: '15', title: 'Fiyin F'Oluwa', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DKe1KoyKKMw/' },
+  { id: '15', title: 'Fiyin Fun Oluwa', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DKe1KoyKKMw/' },
 ];
 
 const categories = ['all', 'social media', 'documentary', 'excerpts', 'music video'];
