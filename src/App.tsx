@@ -30,6 +30,7 @@ const videosData: Omit<Video, 'rotation' | 'x' | 'y' | 'scale' | 'zIndex'>[] = [
   { id: '13', title: 'love abolade', category: 'music video', type: 'instagram', url: 'https://www.instagram.com/reel/DXrnqSKDLDt/' },
   { id: '14', title: 'IBQuake', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DKe1KoyKKMw/' },
   { id: '15', title: 'Fiyin Fun Oluwa', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DL5itx_qUF8/' },
+  { id: '16', title: 'Spice and Bloopers', category: 'social media', type: 'instagram', url: 'https://www.instagram.com/reel/DX1p_3xsidQ/' },
 ];
 
 const categories = ['all', 'social media', 'documentary', 'excerpts', 'music video'];
